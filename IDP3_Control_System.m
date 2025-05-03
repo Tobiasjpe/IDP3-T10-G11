@@ -13,5 +13,5 @@ BaskingTemp = 45;
 SummerDay = 31;
 SummerNight = 25;
 WinterDay = 32;
-WinterNight = 26.5;
+WinterNight = 26;
 
